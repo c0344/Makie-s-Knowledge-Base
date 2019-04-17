@@ -1,6 +1,7 @@
 # Makie's Knowledge Base
 
-> 欢迎回到我的知识库，这里有我一直以来积累的学习网站、素材网站、常用软件的收集
+> 欢迎回到我的知识库，这里有我一直以来积累的学习网站、素材网站、常用软件的收集。
+> 我会尽量坚持更新，如果你有什么建议或者推荐，可邮箱联系我。
 
 ## 不认识我？？那，首先简要介绍一下自己，聊聊我正在做什么吧
 
@@ -30,3 +31,9 @@
 ## 桌面截图
 
 ![Image text](https://raw.githubusercontent.com/c0344/Knowledge_Base/master/Screenshot_folder/Snipaste_2019-04-16_22-19-45.png?token=Ak4qvBjWpHG1hJZlgSplTHGAUfqKwIdXks5cteZPwA%3D%3D)
+
+## 版权
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+此项目基于[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
