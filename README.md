@@ -30,7 +30,7 @@
 
 ## 桌面截图
 
-![Image text](https://raw.githubusercontent.com/c0344/Knowledge_Base/master/Screenshot_folder/Snipaste_2019-04-16_22-19-45.png?token=Ak4qvBjWpHG1hJZlgSplTHGAUfqKwIdXks5cteZPwA%3D%3D)
+![Image text](https://github.com/c0344/Knowledge_Base/blob/master/Media/Screenshot_folder/Snipaste_2019-04-16_22-19-45.png)
 
 ## 版权
 
