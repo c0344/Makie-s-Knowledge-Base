@@ -1,4 +1,4 @@
-# Reference
+# Learning index
 >仅供参考
 ## 设计技术学习索引
 - [DOYODO](http://www.doyoudo.com/) - 音视频制作者学习平台
