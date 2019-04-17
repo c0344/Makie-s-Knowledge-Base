@@ -47,13 +47,19 @@
 - [FindSounds](http://www.findsounds.com/) - 从整个互联网搜索音乐，免费，支持中文
 
 ## Color Matching
-- [Color Hunt](https://colorhunt.co/) - 各种搭配好的颜色，供你选择
+- [Color Hunt](https://colorhunt.co/) - 各种搭配好的颜色方案，供你选择
+- [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/) - 和Color Hunt一样提供各种搭配好的颜色方案，供你选择
 - [Coolors](https://coolors.co/app/d0e3cc-f7ffdd-fcfdaf-efd780-dba159) - 神一般的配色工具，有“按空格键切换配色” 和 “浏览”两种模式
 - [Material Design Palette](https://www.materialpalette.com/) - 符合Material design标准的配色工具
+- [materialuicolors](http://materialuicolors.co/?ref=flatuicolors.com) - 符合Material design标准的配色工具 x2
+- [Hex Color](http://www.colorhexa.com/) - 颜色的百科全书，它会将你的所搜索的色彩的所有详细信息展示出来，还有颜色所应用在哪些颜色主题中比较合适，以及相应的颜色又有哪些
 - [Adobe Color CC](https://color.adobe.com/zh/explore/newest/) - Adobe家的调色和选色工具，有“建立”和“探索”两种模式
 - [flatuicolorpicker](http://www.flatuicolorpicker.com/) - 漂亮的扁平化配色
 - [NIPPON COLORS](http://nipponcolors.com/) - 日本の伝統色
+- [中国色](http://zhongguose.com/) - 和日本の伝統色类似的中国传统色网站
 - [uiGradients](https://uigradients.com/) - 生成各种渐变色的网站
 - [Picular](https://picular.co/) - 颜色搜索引擎
 - [Color Claim](https://www.vanschneider.com/colors) - 提供两种颜色搭配的建议
-- 
+- [Colordot](https://color.hailpixel.com/) - 色卡随机生成网站，提供了 iOS 客户端
+- [Colourcode](http://www.colourco.de/) - 功能比Colordot更加全面一些的色卡随机生成网站，完成自己色卡选择过后还可以选择不同的色卡搭配，并且还可以以不同的格式保存到本地
+- [colr.org](http://colr.org/) - 照片主色调自动提取网站
