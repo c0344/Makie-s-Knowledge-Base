@@ -23,7 +23,7 @@
 
 剪辑一般用 Premiere 或者 DaVinci Resolve。
 
-三维制作 3DS MAX 、MAYA 、 Cinema 4D 和 Blender。
+三维制作 3DS MAX 、MAYA 和 Cinema 4D ，现在在学习 Blender。
 
 作画主要用 CLIP STUDIO PAINT 和 SAI 2 ，有时候会使用 Krita
 
