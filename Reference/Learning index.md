@@ -1,5 +1,5 @@
 # Learning index
->仅供参考
+>仅供参考，排序不分先后
 ## 设计技术学习索引
 - [DOYODO](http://www.doyoudo.com/) - 音视频制作者学习平台
 - [虎课网](https://huke88.com/) - 原创PS视频教程自学网站
