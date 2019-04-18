@@ -35,6 +35,7 @@
 - [XOIO-AIR](https://xoio-air.de/) - 免费可商用的人物免扣高清tif素材图，包括行走、奔跑、仰视、俯视等，还有许多3D模型源文件
 - [Cutoutmix](www.cutoutmix.com) - 免费的谜之猎奇的素材库，极具艺术性，很适合做抽象图形设计
 - [Europeana](https://www.europeana.eu/portal/en) - 聚集了欧洲的艺术馆、图书馆、博物馆、档案馆、影音馆藏的数位内容！有着2300个内容提供者的三亿件数位物件，包括影片、照片、绘画、声音、地图、手稿、书籍、报纸、案卷纸等等，甚至还有3D模型，支持 CC0 协议
+- [WLPPR](http://wlppr.co/) - 各种各样卫星图，可塑性超高，都是百搭的纹理或背景素材
 
 ## Video
 - [Distill](http://www.wedistill.io/) - 免费高清视频素材，可以商用。每十天更新十个视频素材
@@ -93,6 +94,7 @@
 
 ## 3D
 - [TF3DM](http://tf3dm.com/) - 免费的三维模型下载，使用权限不一，由上传用户定
+- [Remix 3D](https://www.remix3d.com) - 微软的3D内容创作社区，在Word和PPT中使用效果很棒
 
 ## Texture Map
 - [Textures](http://www.textures.com/) - 当年的CG texture，最大最全的材质贴图图片库，每天可免费下载15张图
@@ -133,3 +135,5 @@
 - [YASAI](https://wangyasai.github.io/designtools.html) - 9个实用的视觉生成器
 - [Codepen](https://codepen.io/) - 巨量炸裂视觉生成器
 - [Vectary](https://www.vectary.com/) - 在线 3D 建模工具
+- [Nebula Artefact](https://alteredqualia.com/xg/examples/nebula_artefact.html) - AlteredQualia制作的星球生成器
+- [Biomes](https://demo.marpi.pl/biomes/) - Marpi制作的的抽象的像素模型小工具
