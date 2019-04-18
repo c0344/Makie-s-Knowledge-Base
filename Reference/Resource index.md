@@ -130,5 +130,6 @@
 - [Shan - Shui](shan-shui-inf.lingdong.works) - 古画生成器
 - [Panzoid](https://panzoid.com/) - 在线生成炫酷视频片头
 - [imagemotion](https://mikesreda.com/imagemotion/) - 图像动态效果生成器
+- [YASAI](https://wangyasai.github.io/designtools.html) - 9个实用的视觉生成器
 - [Codepen](https://codepen.io/) - 巨量炸裂视觉生成器
 - [Vectary](https://www.vectary.com/) - 在线 3D 建模工具
