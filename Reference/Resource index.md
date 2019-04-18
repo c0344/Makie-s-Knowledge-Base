@@ -1,4 +1,5 @@
 # Resource index
+>排序不分先后
 ## Inspirational Creativity
 - [Dribbble](https://dribbble.com/) - 设计师作品展示和交流社区
 - [Good Web Design](http://www.goodweb.design/) - 聚合优秀的网站设计
