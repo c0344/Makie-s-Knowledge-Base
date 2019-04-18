@@ -17,9 +17,13 @@
 ##  你有在使用哪些设备？
 
 现役 DEll Xps 15 9560 一台，承受全部的工作量。
+
 数位板是 WACOM CTL-690，感觉还行。
+
 相机是 Canon Eos M50 配 15-45mm f/3.5 - 6.3 IS STM 和一枚 50mm f/1.8 STM 小痰盂
+
 手机我还在使用着 iPhone SE ，除非苹果发布一个 三星 Galaxy S10e 大小的全面屏 Almost 手机，我才考虑更新 （立 Flag）
+
 耳机我有不少，最常用还是Bose QC30 、Audio-Technica Sr 5 和 Final Heaven II 。在床上我会用 EarPods ，侧躺听歌不会压迫耳道_(:зゝ∠)_
 
 ## 你使用的软件有？
