@@ -84,6 +84,10 @@
 - [方正字库](http://www.foundertype.com/) - 部分免费，方正字库提供的免费字体包括：方正黑体、方正楷体、方正书宋、方正仿宋等，以上字体全部支持免费商用
 - [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/) - 部分免费，站酷字库提供的免费包括商用字体包括：站酷庆科黄油体、站酷文艺体、站酷小薇LOGO体、站酷酷黑体验版等
 - [文泉驿开源中文计划](http://wenq.org/wqy2/index.cgi?%E9%A6%96%E9%A1%B5) - 部分免费，文泉驿开源中文计划提供的免费商用字体包括：点阵宋体、正黑、点阵正黑、等宽正黑、微米黑、Unibit等
+>### 懒人可看
+>- [Muzli 总结的 30 款免费字体](medium.muz.li/30-great-free-fonts-for-2019-14814a17e91a) - 个人使用完全免费，部分还免费可商用
+>- [5款好看的彩色字体](https://colorfontweek.fontself.com/2018#abelone) - 其中两款免费可个人和商业用途，三款付费
+
 
 ## Icon
 - [Iconfinder](https://www.iconfinder.com/) - 专注于图标素材的搜索引擎，提供PNG和ICO等格式，并且还可以使用在线编辑 icon 的 icon editor 功能
