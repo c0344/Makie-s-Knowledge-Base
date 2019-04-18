@@ -152,7 +152,7 @@
   
 - [文泉驿开源中文计划](http://wenq.org/wqy2/index.cgi?%E9%A6%96%E9%A1%B5) - 部分免费，文泉驿开源中文计划提供的免费商用字体包括：点阵宋体、正黑、点阵正黑、等宽正黑、微米黑、Unibit等
   
->### 懒人可看
+>### 懒人合集
 >- [Muzli 总结的 30 款免费字体](medium.muz.li/30-great-free-fonts-for-2019-14814a17e91a) - 个人使用完全免费，部分还免费可商用
 >- [5款好看的彩色字体](https://colorfontweek.fontself.com/2018#abelone) - 其中两款免费可个人和商业用途，三款付费
 
