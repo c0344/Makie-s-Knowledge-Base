@@ -5,9 +5,13 @@
   
 - [Good Web Design](http://www.goodweb.design/) - 聚合优秀的网站设计
   
+- [Pinterest](https://www.pinterest.com/) - 瀑布流形式的图片社交网站
+
 - [ALLd](http://alld.jp/) - 一家日本的设计工作室，风格变化多样但日式风格却深植其中
   
 - [Artstation](https://www.artstation.com/) - 主要以游戏或者影视的概念艺术设定或者插画或者3D模型为主，有着极高的商业水准作品展示平台网站
+
+- [deviantART](https://www.deviantart.com/) - 一个展示与分享各类艺术创作的大型国际性社群网站
 
 ## Image
 - [Pixabay](https://pixabay.com/) - 老牌免费的高清图片和矢量图文件资源库，除此之外还提供了免费的视频素材供你随意使用。
