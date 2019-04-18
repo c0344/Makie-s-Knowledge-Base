@@ -81,6 +81,9 @@
 - [Typotheque](https://www.typotheque.com/) - 一个既提供平面设计又提供字体设计的网站
 - [VAU Fonts](https://vaufonts.co/) - 提供一些怪异字体的网站
 - [Use&Modify](http://usemodify.com/) - 收集的一些可以免费商用的英文字体
+- [方正字库](http://www.foundertype.com/) - 部分免费，方正字库提供的免费字体包括：方正黑体、方正楷体、方正书宋、方正仿宋等，以上字体全部支持免费商用
+- [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/) - 部分免费，站酷字库提供的免费包括商用字体包括：站酷庆科黄油体、站酷文艺体、站酷小薇LOGO体、站酷酷黑体验版等
+- [文泉驿开源中文计划](http://wenq.org/wqy2/index.cgi?%E9%A6%96%E9%A1%B5) - 部分免费，文泉驿开源中文计划提供的免费商用字体包括：点阵宋体、正黑、点阵正黑、等宽正黑、微米黑、Unibit等
 
 ## Icon
 - [Iconfinder](https://www.iconfinder.com/) - 专注于图标素材的搜索引擎，提供PNG和ICO等格式，并且还可以使用在线编辑 icon 的 icon editor 功能
