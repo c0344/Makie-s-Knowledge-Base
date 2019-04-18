@@ -2,6 +2,7 @@
 ## Inspirational Creativity
 - [Dribbble](https://dribbble.com/) - 设计师作品展示和交流社区
 - [Good Web Design](http://www.goodweb.design/) - 聚合优秀的网站设计
+- [ALLd](http://alld.jp/) - 一家日本的设计工作室，风格变化多样但日式风格却深植其中
 
 ## Image
 - [Pixabay](https://pixabay.com/) - 老牌免费的高清图片和矢量图文件资源库，除此之外还提供了免费的视频素材供你随意使用。
@@ -30,6 +31,9 @@
 - [MMT](http://mmtstock.com/) - Jeffrey Betts 所创建的免费图片库
 - [Life of Pix](http://www.lifeofpix.com/) - 免费无版权图片网站
 - [泼辣有图](http://www.polayoutu.com/) - 泼辣修图 推出的免费开源摄影分享网站，全部图片均为 CC0 版权协议
+- [XOIO-AIR](https://xoio-air.de/) - 免费可商用的人物免扣高清tif素材图，包括行走、奔跑、仰视、俯视等，还有许多3D模型源文件
+- [Cutoutmix](www.cutoutmix.com) - 免费的谜之猎奇的素材库，极具艺术性，很适合做抽象图形设计
+- [Europeana](https://www.europeana.eu/portal/en) - 聚集了欧洲的艺术馆、图书馆、博物馆、档案馆、影音馆藏的数位内容！有着2300个内容提供者的三亿件数位物件，包括影片、照片、绘画、声音、地图、手稿、书籍、报纸、案卷纸等等，甚至还有3D模型，支持 CC0 协议
 
 ## Video
 - [Distill](http://www.wedistill.io/) - 免费高清视频素材，可以商用。每十天更新十个视频素材
@@ -120,5 +124,10 @@
 - [SCREEN SIZ.ES](http://screensiz.es/phone) - 查询各种设备的尺寸
 - [Designers Eye](https://www.supremo.co.uk/designers-eye/) - 测一测你有没有像素眼
 - [PHOTOMOSH](https://photomosh.com/) - 一键加特效
-
-## 
+- [Flourish](https://app.flourish.studio/@flourish/bar-chart-race) - 可视化工具网站
+- [TheMatrix](https://wangyasai.github.io/TheMatrix/) - 黑客帝国数字矩阵特效
+- [Shan - Shui](shan-shui-inf.lingdong.works) - 古画生成器
+- [Panzoid](https://panzoid.com/) - 在线生成炫酷视频片头
+- [imagemotion](https://mikesreda.com/imagemotion/) - 图像动态效果生成器
+- [Codepen](https://codepen.io/) - 巨量炸裂视觉生成器
+- [Vectary](https://www.vectary.com/) - 在线 3D 建模工具
