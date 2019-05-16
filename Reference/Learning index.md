@@ -44,7 +44,9 @@
   
 - [贰_33](https://space.bilibili.com/1902865) 、[8K8K](https://space.bilibili.com/4345670) - 翻译了很多国外优质摄影、摄像教程，前者主业是翻译油管最火的影视Peter Mckinnon的教程，后者会给字幕中较难单词短语做注释
 
-- [电影传送门主页妹](https://space.bilibili.com/57598190) - 主要翻译一些对经典电影剪辑、调色、声音、镜头调度进行赏析的视频
+- [电影传送门主页妹](https://space.bilibili.com/57598190) - 主要翻译一些对经典电影剪辑、调色、声音、镜头调度进行赏析的视频。
+  
+- 怒豆渣 ([电影自习室免费版](https://edu.xinpianchang.com/course/13)、[电影自习室pro](https://edu.xinpianchang.com/course/1)) - 2014年开始更新的电影自习室依然是制作水平最高，干货最多的影视教程之一
 
 ## 绘画技术学习索引
 - [Pixiv 繪畫方法頁面](https://www.pixiv.net/howto) - Pixiv官方的多样化绘画学习、资源页面。
