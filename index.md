@@ -7,7 +7,7 @@
 > 我会尽量坚持更新，如果你有什么建议或者推荐，可邮箱联系我。
 ## 目录导航
 - [资源导航](https://github.com/c0344/Makie-s-Knowledge-Base/blob/master/Reference/Resource%20index.md)
-- [学习导航](https://github.com/c0344/Makie-s-Knowledge-Base/blob/master/Reference/Learning%20index.md) ( 未完成，施工ing )
+- [学习导航](https://github.com/c0344/Makie-s-Knowledge-Base/blob/master/Reference/Learning%20index.md)
 - Windows 软件推荐 ( 荒废ing )
 - iOS 软件推荐 ( 荒废ing )
 - Android 软件推荐 ( 荒废ing )
