@@ -1,5 +1,7 @@
 # Makie's Knowledge Base
 
+![Image text](https://github.com/c0344/Makie-s-Knowledge-Base/blob/master/Media/IMG_3737.GIF)
+
 > 欢迎回到我的知识库，这里有我一直以来积累的学习网站、素材网站、常用软件的收集。
 
 > 我会尽量坚持更新，如果你有什么建议或者推荐，可邮箱联系我。
