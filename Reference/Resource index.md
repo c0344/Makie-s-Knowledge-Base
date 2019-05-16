@@ -155,7 +155,8 @@
 - [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/) - 部分免费，站酷字库提供的免费包括商用字体包括：站酷庆科黄油体、站酷文艺体、站酷小薇LOGO体、站酷酷黑体验版等
   
 - [文泉驿开源中文计划](http://wenq.org/wqy2/index.cgi?%E9%A6%96%E9%A1%B5) - 部分免费，文泉驿开源中文计划提供的免费商用字体包括：点阵宋体、正黑、点阵正黑、等宽正黑、微米黑、Unibit等
-  
+- [阿里巴巴普惠体](https://alibabafont.taobao.com/wow/alibabafont/act/alifont?spm=a213iq.12741207.2438956849.1.11c2461dFUSDOO&wh_biz=tm&acm=lb-zebra-476210-6318664.1003.4.5749054&scm=1003.4.lb-zebra-476210-6318664.OTHER_15543390589341_5749054) - 汉仪字库为阿里巴巴定制的商业字体，免费授权给全球用户和公众使用
+
 >### 懒人合集
 >- [Muzli 总结的 30 款免费字体](medium.muz.li/30-great-free-fonts-for-2019-14814a17e91a) - 个人使用完全免费，部分还免费可商用
 >- [5款好看的彩色字体](https://colorfontweek.fontself.com/2018#abelone) - 其中两款免费可个人和商业用途，三款付费
