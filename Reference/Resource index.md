@@ -255,3 +255,9 @@
 - [Nebula Artefact](https://alteredqualia.com/xg/examples/nebula_artefact.html) - AlteredQualia制作的星球生成器
   
 - [Biomes](https://demo.marpi.pl/biomes/) - Marpi制作的的抽象的像素模型小工具
+
+## 版权
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+此项目基于[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

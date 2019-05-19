@@ -67,3 +67,9 @@
 - [FanfaniShare](https://space.bilibili.com/346396741) - 一位在美国高校教英文的中国女孩，她 TESOL 硕士全 A 毕业，曾经在环球雅教过四年的雅思口语。可以借助她的投稿视频练习英式口语、雅思写作、单词记忆等，并纠正错误的发音习惯.
 
 - [小圆脸Paprika](https://space.bilibili.com/239854589) - 如果你正面临不知看何书、又如何看书的困境，她会定期分享最近出版的好书、个人读书的感触等
+
+## 版权
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+此项目基于[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
